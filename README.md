@@ -49,6 +49,7 @@ https://www.themoviedb.org/
 FLIX/
 ---
 ├── public/
+---
 ├── src/
 │ ├── Components/
 │ │ └── Header/
