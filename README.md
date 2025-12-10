@@ -19,8 +19,10 @@ Criar uma interface moderna e funcional que consome uma API de filmes, permitind
 ---
 
 ## 🖼️ Preview  
-*(adicione uma imagem futuramente — opcional)*  
-`preview.png`
+
+<img width="1907" height="880" alt="image" src="https://github.com/user-attachments/assets/f42a20d2-5d61-4791-84bf-8aad30b29dcb" />
+<img width="1887" height="900" alt="image" src="https://github.com/user-attachments/assets/e064ee15-3534-48e6-8bd7-57e4f70e6d43" />
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/342c8833-9f17-47e2-9b03-9d41b9ec6870" />
 
 ---
 
