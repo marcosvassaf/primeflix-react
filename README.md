@@ -46,9 +46,10 @@ https://www.themoviedb.org/
 
 ## 📁 Estrutura do Projeto  
 
+```
 FLIX/
--├── public/
--├── src/
+├── public/
+├── src/
 │ ├── Components/
 │ │ └── Header/
 │ │ ├── header.css
@@ -59,7 +60,7 @@ FLIX/
 │ │ ├── Filmes/
 │ │ └── Home/
 │ ├── Services/
-│ │ └── api.js
+│ └── api.js
 │ ├── App.js
 │ ├── index.css
 │ ├── index.js
@@ -68,6 +69,7 @@ FLIX/
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
 
 ---
 
