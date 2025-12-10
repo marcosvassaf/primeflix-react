@@ -8,13 +8,31 @@ Criar uma interface moderna e funcional que consome uma API de filmes, permitind
 
 ---
 
-## 🚀 Funcionalidades  
-- Listagem de filmes populares  
-- Página de detalhes com descrição e trailer  
-- Navegação dinâmica por rotas  
-- Sistema de favoritos salvo no localStorage  
-- Layout responsivo  
-- Consumo de API externa (TMDB)
+## ✨ Funcionalidades
+
+- 📌 **Listagem de filmes em cartaz**
+- 🔍 **Página de detalhes** com sinopse e imagem
+- ⭐ **Salvar filmes favoritos** no localStorage
+- 🗑️ Remover favoritos com feedback via Toastify
+- 🌐 Consumo de API externa (TMDB)
+- 🧭 Navegação por rotas com React Router DOM
+- 🎨 Layout simples e responsivo
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- **React.js**
+- **React Router DOM**
+- **Axios**
+- **React Toastify**
+- **JavaScript ES6+**
+- **CSS**
+- **TMDB API**
+
+- 🔗 API TMDB
+O projeto utiliza a API pública do TMDB:
+https://www.themoviedb.org/
 
 ---
 
@@ -27,3 +45,41 @@ Criar uma interface moderna e funcional que consome uma API de filmes, permitind
 ---
 
 ## 📁 Estrutura do Projeto  
+
+FLIX/
+├── public/
+├── src/
+│ ├── Components/
+│ │ └── Header/
+│ │ ├── header.css
+│ │ └── index.js
+│ ├── Pages/
+│ │ ├── Erro/
+│ │ ├── Favoritos/
+│ │ ├── Filmes/
+│ │ └── Home/
+│ ├── Services/
+│ │ └── api.js
+│ ├── App.js
+│ ├── index.css
+│ ├── index.js
+│ └── routes.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
+
+---
+
+## 👤 Autor
+
+Marcos Vinicius Arnold Assaf
+Desenvolvimento Front-end & Projetos Web
+LinkedIn: https://www.linkedin.com/in/marcosassaf
+
+---
+
+##📝 Observações
+
+Este projeto foi criado com foco em estudo, portfólio e prática de React.
+
