@@ -1,4 +1,4 @@
-# 📺 PrimeFlix — Catálogo de Filmes em React  
+# 📺 Assaf flix — Catálogo de Filmes em React  
 Aplicação desenvolvida em **React.js** para listagem, navegação e visualização de detalhes de filmes, simulando a experiência de um catálogo de streaming.
 
 ---
