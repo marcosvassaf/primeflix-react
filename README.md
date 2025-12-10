@@ -47,6 +47,7 @@ https://www.themoviedb.org/
 ## 📁 Estrutura do Projeto  
 
 FLIX/
+---
 ├── public/
 ├── src/
 │ ├── Components/
