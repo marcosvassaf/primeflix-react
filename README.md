@@ -5,6 +5,7 @@ Aplicação desenvolvida em **React.js** para listagem, navegação e visualiza�
 
 ## 🎯 Objetivo  
 Criar uma interface moderna e funcional que consome uma API de filmes, permitindo ao usuário navegar, visualizar sinopses, acessar trailers e salvar favoritos.
+link do projeto: https://drive.google.com/file/d/1fLwvbVyE0592stwLsHQKwbQ9FyLwSNf7/view?usp=drive_link
 
 ---
 
